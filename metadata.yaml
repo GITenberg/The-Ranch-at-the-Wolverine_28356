@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '275'
     url: http://www.gutenberg.org/2009/agents/275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28356#The-Ranch-at-the-Wolverine
 gutenberg_issued: '2009-03-19'
 gutenberg_type: Text
 identifiers:
